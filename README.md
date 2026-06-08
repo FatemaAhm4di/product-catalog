@@ -1,6 +1,6 @@
 # Product Catalog React Router v7
 
-A multi-page product catalog built with React and React Router v7.
+A multi-page product catalog built with React and React Router v.7.
 
 ## How to Run
 
